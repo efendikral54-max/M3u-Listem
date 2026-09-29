@@ -42,7 +42,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-haber-tr.png" group-title="Haber",TRT Haber
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_1080p.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/cnn-turk-tr.png" group-title="Haber",CNN
-https://saraydorf.de/cors/tinhls_proxy.php?url=https%3A%2F%2Ftrn03.tulix.tv%2Fgt-cnnturk-tv%2Ftracks-v1a1%2F2026%2F09%2F13%2F18%2F35%2F37-06000.ts%3Ftoken%3D0631e8753bcdf25bb2a5015db22ec082
+http://izlego.minikirppis-com.workers.dev/ID=427315396743dfe9212c50
 #EXTINF:-1 tvg-name="NTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/ntv-tr.png" group-title="Haber",NTV
 https://tatatam.trt1sultanfatihss.workers.dev/https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?&sid=8noxlzj7u4u7&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=2
 #EXTINF:-1 tvg-name="24 Haber" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/24-tr.png" group-title="Haber",24 Haber
